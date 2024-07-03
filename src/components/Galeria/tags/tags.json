@@ -6,15 +6,18 @@
     },
     {
         "id": 1,
-        "titulo": "Estrellas"
+        "titulo": "Estrellas",
+        "tag":1
     },
     {
         "id": 2,
-        "titulo": "Galaxias"
+        "titulo": "Galaxias",
+        "tag":2
     },
     {
         "id": 3,
-        "titulo": "Lunas"
+        "titulo": "Lunas",
+        "tag":3
     },
     {
         "id": 4,
